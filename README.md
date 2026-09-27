@@ -1,5 +1,9 @@
 # Punjab Annual School Census Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://punjab-school-census-v4tm6hpuztaguggsywmmqd.streamlit.app/)
+
+**🔗 Live Demo:** [https://punjab-school-census-v4tm6hpuztaguggsywmmqd.streamlit.app/](https://punjab-school-census-v4tm6hpuztaguggsywmmqd.streamlit.app/)
+
 An interactive data analysis and visualization dashboard for the Punjab Annual School Census (October 2018). Built with Python, Streamlit, SQLite, and Plotly.
 
 ## 📊 Project Overview
